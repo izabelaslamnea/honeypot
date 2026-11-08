@@ -1,0 +1,14 @@
+# Registros y datos generados
+*.log
+*.csv
+
+# Python
+__pycache__/
+*.pyc
+
+# Entornos virtuales
+venv/
+.venv/
+
+# Configuración local de VS Code
+.vscode/
